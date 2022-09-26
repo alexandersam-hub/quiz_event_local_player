@@ -1,0 +1,25 @@
+.wrapper{
+  margin-bottom: 60px;
+}
+.wrapper img{
+    width: 200px;
+}
+.title{
+    margin-top: 20px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 96px;
+    color: #285CA6;
+}
+
+.text{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    color: #285CA6;
+    margin-top: 25px;
+}

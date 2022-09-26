@@ -1,0 +1,34 @@
+.wrapper{
+    background: #FFFFFF;
+    border: 3px solid #285CA6;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+.title{
+    margin: auto;
+
+    text-align: center;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 29px;
+
+    color: #285CA6;
+}
+
+.t_score{
+    padding-top: 10px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #000000;
+}
+
+.t_score td{
+    padding: 5px;
+}

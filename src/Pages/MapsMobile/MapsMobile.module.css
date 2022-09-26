@@ -1,0 +1,24 @@
+.wrapper{
+
+    margin: auto;
+    /*touch-action: none;*/
+    /*touch-action: none;*/
+}
+
+.maps_wrapper{
+    margin:auto;
+    width: 95%;
+    max-width: 1024px;
+
+}
+.maps_wrapper svg{
+
+    margin:auto;
+}
+/*.wrapper svg{*/
+/*    display: inline-block;*/
+/*    !*-webkit-transform: translateX(50%);*!*/
+/*    !*-ms-transform: translateX(50%);*!*/
+/*    !*transform: translateX(50%);*!*/
+
+/*}*/

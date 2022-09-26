@@ -1,0 +1,127 @@
+
+.wrapper{
+    font-size: 16px;
+    font-family: Gilroy;
+    color: #285ca6;
+    font-weight: 800;
+    text-align: left;
+
+}
+.content{
+    width: 90%;
+    max-width: 1024px;
+    margin: auto;
+}
+.map{
+    width: 100%;
+    margin: 30px auto;
+
+
+}
+
+
+.user_id{
+    position: absolute;
+    right: 10px;
+    top:100px;
+}
+
+.title{
+    margin: 20px auto;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+
+
+    color: #285CA6;
+}
+
+.wrapper_quest{
+    padding: 20px;
+
+    margin: auto;
+    border:3px solid #285ca6;
+    border-radius: 20px;
+}
+.score_wrapper{
+    width: 93%;
+    margin: auto;
+}
+.score{
+
+    max-width: 500px;
+
+}
+
+.wrapper_waiting_launch{
+    margin-top:10px;
+}
+
+.team_name{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+
+    /* identical to box height */
+    color: #285CA6;
+    text-align: center;
+    margin: 0 auto 20px auto;
+
+}
+
+.waiting_launch{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 49px;
+    /* identical to box height */
+    color: #285CA6;
+    text-align: center;
+    margin: auto;
+    padding: 2px;
+}
+
+.loader_img{
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+
+.stupid_phrase{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 49px;
+    /* identical to box height */
+    color: #285CA6;
+    text-align: center;
+    margin: auto;
+  padding: 2px;
+
+}
+
+.answer_ready{
+    margin-bottom: 20px;
+
+}
+
+.true_answer{
+
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    /* identical to box height */
+    color: #285CA6;
+    text-align: center;
+    margin: 20px auto 0 auto;
+   width: 95%;
+}
+
+.pie_charts{
+    margin: auto;
+}

@@ -1,0 +1,100 @@
+.wrapper {
+
+}
+.title{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #285CA6;
+    margin: 20px auto -20px auto;
+}
+.num_slim,
+.num_null,
+.num{
+    display: block;
+    text-align: left;
+    position: relative;
+    top:149px;
+    left: 90px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 49px;
+    /* identical to box height */
+    width: 100px;
+
+    color: #285CA6;
+    z-index: -1;
+}
+.num_slim{
+    left: 100px;
+}
+.num_null{
+    left: 113px;
+}
+
+.chart_wrapper{
+    display: block;
+    margin: auto;
+
+}
+.chart{
+    width: 250px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.wrapper_legend{
+    display: inline-block;
+
+    vertical-align: middle;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.legend_true,
+.legend_false,
+.legend_not_answer{
+    margin-top: 10px;
+}
+
+.legend_true_color,
+.legend_false_color,
+.legend_not_answer_color{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+
+.legend_true_color{
+    background-color: #D4FFC5;
+    border: 1px solid #00FF0A;
+
+}
+
+.legend_false_color{
+    background-color: #FFC5C5;
+    border: 1px solid #FF0000;
+
+}
+
+.legend_not_answer_color{
+    background-color: #FFF9C5;
+    border: 1px solid #FFB800;
+}
+
+.legend_text{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #285CA6;
+    margin-left: 10px;
+}
